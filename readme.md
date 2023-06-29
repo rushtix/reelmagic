@@ -16,9 +16,9 @@ ReelMagic is an innovative platform utilizing generative AI to transform group c
 
 This knowledge base provides information on various aspects of ReelMagic, including:
 
-- [**Tech Stack**](https://github.com/rushtix/reelmagic/blob/main/techstack.md](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md): Learn about the technologies and AI models powering ReelMagic. 
-- [**Usage Guide**](https://github.com/rushtix/reelmagic/blob/main/usage-guide.md](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md): Understand how to engage and navigate the platform. 
-- [**Ethics & DEI**](https://github.com/rushtix/reelmagic/blob/main/ethics-dei.md](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
+- [**Tech Stack**](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md): Learn about the technologies and AI models powering ReelMagic. 
+- [**Usage Guide**](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md): Understand how to engage and navigate the platform. 
+- [**Ethics & DEI**](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
 
 # Table of Contents 💡
 
