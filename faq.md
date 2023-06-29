@@ -13,4 +13,4 @@ A3: In the world of ReelMagic, you aren't just a spectator; you're a participant
 A4: ReelMagic is the brainchild of the team behind RushTix, which, during the pandemic, emerged as the largest paid livestreaming platform for comedy.
 
 **Q5: What is the future of ReelMagic?**
-A5: We envision a future where advanced generative AI transforms group chats into immersive, interactive fiction experiences, brought to life in captivating video content. We're also exploring the potential for monetization and growth through Non-Fungible Tokens (NFTs).
+A5: We envision a future where advanced generative AI transforms group chats into immersive, interactive fiction experiences, brought to life in captivating video content.
