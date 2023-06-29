@@ -1,5 +1,7 @@
 ## Current Investors
 
+Following are some of the amazing investors we've partnered with.
+
 ### [Spero.vc](https://spero.vc/)
 Spero.vc is a venture capital firm that invests in companies that make life worth living. They believe in the power of shared experiences and see the potential in our platform to create these meaningful interactions. Spero.vc invested in us because they see the potential in our unique approach to interactive entertainment, especially our use of generative AI. They believe in our vision of transforming the way people experience digital content and recognize the strength of our team and our proven ability to execute on our vision.
 
