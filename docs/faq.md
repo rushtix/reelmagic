@@ -22,6 +22,7 @@
 - **Less friction for current Discord users**: Many of our target audience are already familiar with Discord, reducing the learning curve.
 - **Interest-based immersion**: Successful Discord servers are often "interest-based", so having Discord servers that fully encapsulate the "world" of the story enhances immersion for the user.
 
+<br>As we scale we will add a variety of UI choices for users (see Question 9 below).
 
 **Q7: Which part of the network is most important to kick off the flywheel (creator, host, audience)?**
 <br>Quality content is key to attracting an audience. Once we have an active audience base, this will incentivize more creators and hosts to join, creating a virtuous cycle. Additionally, friends inviting other friends to play together and influencers with large followings can also significantly contribute to kickstarting the network effect.
