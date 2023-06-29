@@ -124,6 +124,21 @@ Our company's unfair advantages include:
 
 - **Continued Stories**: The "stories" on the platform can be continued. Players get attached to their stories and characters and want to continue and see what happens next. This creates a strong user engagement and retention mechanism.
 
+**Q37: How Do You Know Users Want This Product?**
+
+We have gained a deep understanding of our customers' needs through our extensive experience of conducting over 500 paid livestreams. This experience has given us valuable insights into what users want and expect from interactive entertainment experiences. 
+
+Moreover, we have identified several key trends and needs:
+
+- **Desire for Interactivity**: Modern audiences, particularly younger generations, crave interactive experiences. They want to be active participants in their entertainment, not just passive viewers. Our platform caters to this desire by allowing users to influence the narrative in real-time.
+
+- **Need for Community**: In an increasingly digital world, people are seeking ways to connect with others and form communities. Our platform fosters a sense of community by allowing users to engage in shared experiences and interact with each other.
+
+- **Demand for Personalization**: Personalization is a major trend across all forms of media and entertainment. Our platform uses AI to create personalized narratives based on each user's inputs, offering a level of personalization that is not possible with traditional forms of entertainment.
+
+- **Interest in AI and Emerging Technologies**: There is a growing interest in AI and other emerging technologies. Our platform sits at the intersection of these trends, offering users a unique way to engage with and experience the potential of AI.
+
+Through continuous user feedback and data analysis, we constantly validate these needs and refine our product to better meet them.
 
 
 
