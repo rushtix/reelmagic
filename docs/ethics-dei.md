@@ -4,7 +4,7 @@ Welcome to the Ethics & DEI (Diversity, Equity, Inclusion) page of the ReelMagic
 
 ## Ethical AI Usage
 
-ReelMagic is deeply committed to the responsible and ethical use of AI. Our AI models are trained on a diverse range of data, minimizing bias and promoting fair representation. We are transparent about our AI usage and ensure our models align with ethical AI guidelines. Here are some key principles that guide our approach:
+We are deeply committed to the responsible and ethical use of AI. Our AI models are trained on a diverse range of data, minimizing bias and promoting fair representation. We are transparent about our AI usage and ensure our models align with ethical AI guidelines. Here are some key principles that guide our approach:
 
 **Human-Leading AI World**: We are committed to working towards a human-leading AI world that benefits all humans equally.
 
@@ -14,7 +14,7 @@ ReelMagic is deeply committed to the responsible and ethical use of AI. Our AI m
 
 **Companion Bots**: A companion bot is an AI-powered entity designed to provide personalized assistance, engage in conversation, and establish a friendly relationship with users. In our platform users can chat directly with characters in the stories. When utilizing companion bots in our platform, prioritizing the ethical implications is crucial. We believe in transparently presenting them as AI tools, rather than human substitutes, which helps avoid misleading users and ensures respect for personal data and privacy. Balancing the convenience of companion bots with genuine human interaction prevents over-reliance and potential social isolation. We continuously seek user feedback and monitoring impact ensures ethical alignment and positive customer experience. 
 
-**Community**: In our Discord community, we prioritize ethics by fostering a culture of respect, where all users are treated with kindness and fairness, following the golden rule. We maintain a language standard that discourages the use of inappropriate or derogatory expressions towards any individual. Additionally, we prohibit spamming, sharing explicit content, engaging in advertisements, using offensive names or profile pictures, server raiding, and making direct or indirect threats, aligning with both our community guidelines and Discord's platform rules.
+**Community**: In our Discord community, we prioritize ethics by fostering a culture of respect, where all users are treated with kindness and fairness, following the golden rule. We maintain a language standard that discourages the use of inappropriate or derogatory expressions toward any individual. Additionally, we prohibit spamming, sharing explicit content, engaging in advertisements, using offensive names or profile pictures, server raiding, and making direct or indirect threats, aligning with both our community guidelines and Discord's platform rules.
 
 **Privacy and Security**: We prioritize data security. Our AI systems provide proper data governance and model management systems. Privacy and preserving AI principles help to keep the data secure.
 
