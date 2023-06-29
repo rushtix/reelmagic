@@ -9,7 +9,7 @@ ReelMagic is an innovative platform utilizing generative AI to transform group c
 ### Key Features ✨
 
 - **Interactive**: Participate in live, ongoing stories, making choices that steer the narrative. 
-- **Immersive**: Dive into detailed worlds that respond and adapt to your actions. 
+- **Immersive**: Dive into detailed worlds that respond and adapt to your action at communicate with the characters.
 - **Generative AI**: Experience dynamic storytelling powered by advanced AI, creating unique, real-time narratives. 
 
 ## Getting Started 🏁
