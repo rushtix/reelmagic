@@ -29,7 +29,3 @@ We welcome ideas, feedback, and contributions that help to enhance ReelMagic's i
 Feel free to delve into specific sections for detailed information. If you have any questions or need further clarification, don't hesitate to raise an issue. 
 
 Welcome to the ReelMagic community! Enjoy exploring the magic of interactive storytelling. 
-
----
-
-Your magical journey begins here!
