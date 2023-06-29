@@ -1,6 +1,6 @@
 # Team 🚀
 
-We are an award-winning team of 10 with a motto of "never give up". Our accolades include:
+We are an award-winning team of six with a motto of "never give up". Our accolades include:
 
 - Multiple start-up awards
 - Two IBM Watson Dev Con Conversational Bot Awards
