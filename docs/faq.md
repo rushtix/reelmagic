@@ -14,14 +14,14 @@
 <br>We envision a future where advanced generative AI transforms group chats into immersive, interactive fiction experiences, brought to life in captivating video content.
 
 **Q6: Why use Discord instead of a web app for chat?**
-<br>Discord offers several advantages for our platform:
+<br>Discord currently offers several advantages for our platform. As we scale we will add a variety of UI choices for users (see Question 9 below).
 
 - **Ease of use**: It's simple for us to add Discord servers and the platform works excellently for communities.
 - **Reduced infrastructure cost**: Maintaining servers for thousands of users can be expensive. With Discord, we can scale effortlessly.
 - **Developer-friendly API**: Discord's extensive APIs enable easy integration with ReelMagic, allowing us to focus more on improving our unique value proposition - the interactive, real-time video experiences.
 - **Less friction for current Discord users**: Many of our target audience are already familiar with Discord, reducing the learning curve.
 - **Interest-based immersion**: Successful Discord servers are often "interest-based", so having Discord servers that fully encapsulate the "world" of the story enhances immersion for the user.<br>
-As we scale we will add a variety of UI choices for users (see Question 9 below).
+
 
 **Q7: Which part of the network is most important to kick off the flywheel (creator, host, audience)?**
 <br>Quality content is key to attracting an audience. Once we have an active audience base, this will incentivize more creators and hosts to join, creating a virtuous cycle. Additionally, friends inviting other friends to play together and influencers with large followings can also significantly contribute to kickstarting the network effect.
