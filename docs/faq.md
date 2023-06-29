@@ -12,6 +12,7 @@
 
 **Q5: What is the future of ReelMagic?**
 <br>We envision a future where advanced generative AI transforms group chats into immersive, interactive fiction experiences, brought to life in captivating video content.
+
 **Q6: Why use Discord instead of a web app for chat?**
 
 Discord offers several advantages for our platform:
