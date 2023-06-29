@@ -20,10 +20,6 @@ This knowledge base provides information on various aspects of ReelMagic, includ
 - [**Usage Guide**]([https://github.com/rushtix/reelmagic/blob/main/usage-guide.md](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md)): Understand how to engage and navigate the platform. 
 - [**Ethics & DEI**]([https://github.com/rushtix/reelmagic/blob/main/ethics-dei.md](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md)): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
 
-## Contributing 📝
-
-We welcome ideas, feedback, and contributions that help to enhance ReelMagic's interactive narrative experiences. Find out how to contribute in our '[Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/contribution-guidelines.md)' section.
-
 # Table of Contents 💡
 
 1. [About Us](https://github.com/rushtix/reelmagic/blob/main/docs/about.md)
@@ -39,5 +35,9 @@ We welcome ideas, feedback, and contributions that help to enhance ReelMagic's i
 11. [Usage Guide](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md)
 12. [Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/docs/contribution-guidelines.md)
 13. [Briefing Document](https://github.com/rushtix/reelmagic/blob/main/docs/briefing-document.md)
+
+## Contributing Feedback 📝
+
+We welcome ideas, feedback, and contributions that help to enhance ReelMagic's interactive narrative experiences. Find out how to contribute in our '[Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/contribution-guidelines.md)' section.
 
 Welcome to the ReelMagic community! Enjoy exploring the magic of interactive storytelling. 
