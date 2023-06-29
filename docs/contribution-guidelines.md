@@ -17,3 +17,6 @@ Please note that the more information you can provide, the better we can help yo
 
 Looking forward to your contributions!
 
+[Previous: Usage Guide](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md) | [Next: Briefing Document]
+
+
