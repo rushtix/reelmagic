@@ -18,3 +18,4 @@ Johnny runs the Bay Area's biggest event site, Funcheap.com, and is a top live c
 ## Haris Amjed, Senior Developer at RushTix
 Haris is skilled in all AI technologies, React, Node.js, and all cloud platforms including GCP, AWS, and Azure. His technical expertise has been crucial in developing the advanced technologies that power RushTix. Haris's LinkedIn profile can be found [here](https://www.linkedin.com/in/harisamjed/).
 
+[Previous: Our Ecosystem](https://github.com/rushtix/reelmagic/blob/main/docs/ecosystem.md) | [Next: Investors](https://github.com/rushtix/reelmagic/blob/main/docs/investors.md)
