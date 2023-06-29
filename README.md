@@ -22,7 +22,7 @@ This knowledge base provides information on various aspects of ReelMagic, includ
 
 ## Contributing 🤝
 
-We welcome ideas, feedback, and contributions that help to enhance ReelMagic's interactive narrative experiences. Find out how to contribute in our 'Contribution Guidelines' section. 📝💡
+We welcome ideas, feedback, and contributions that help to enhance ReelMagic's interactive narrative experiences. Find out how to contribute in our '[Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/contribution-guidelines.md)' section. 📝💡
 
 ## Explore More 🕵️‍♀️
 
