@@ -21,7 +21,6 @@
 - **Developer-friendly API**: Discord's extensive APIs enable easy integration with ReelMagic, allowing us to focus more on improving our unique value proposition - the interactive, real-time video experiences.
 - **Less friction for current Discord users**: Many of our target audience are already familiar with Discord, reducing the learning curve.
 - **Interest-based immersion**: Successful Discord servers are often "interest-based", so having Discord servers that fully encapsulate the "world" of the story enhances immersion for the user.
-
 <br>As we scale we will add a variety of UI choices for users (see Question 9 below).
 
 **Q7: Which part of the network is most important to kick off the flywheel (creator, host, audience)?**
