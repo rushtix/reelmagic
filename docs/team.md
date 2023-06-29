@@ -4,8 +4,7 @@ We are an award-winning team of six with a motto of "never give up". Our accolad
 
 - Multiple start-up awards
 - Two IBM Watson Dev Con Conversational Bot Awards
-- Top company in Jason Calancanis' Launch program
-- Coverage in Forbes, New York Times, The Wall Street Journal, and many more.
+- Coverage in [Forbes](https://www.forbes.com/sites/rosaescandon/2021/01/27/ceo-of-rushtix-jill-bourque-says-live-streaming-comedy-is-here-to-stay/?sh=559b1df7620d), [The New York Times](https://www.forbes.com/sites/rosaescandon/2021/01/27/ceo-of-rushtix-jill-bourque-says-live-streaming-comedy-is-here-to-stay/?sh=559b1df7620d) , The Wall Street Journal, and many more.
 
 Our team has worked together for nine years on various projects, with Jill and Johnny having a working relationship that spans 15 years. Here are our key team members:
 
