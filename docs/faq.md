@@ -105,4 +105,5 @@ Our AI model is highly scalable and adaptable. As more users join our platform a
 **Q33: Why Do Humans Anthropomorphize AI?**<br>
 Humans anthropomorphize AI because it's a natural human tendency to attribute human-like qualities to non-human entities. This tendency helps us understand and relate to these entities better. In the case of AI, even though we know there's no human behind the responses, we often imagine that the AI has a personality, thoughts, or feelings. This helps us form emotional connections with the AI, making our interactions with it more engaging and meaningful.
 
+[Previous: Investors](https://github.com/rushtix/reelmagic/blob/main/docs/investors.md) | [Next: Ethics and Diversity, Equity, and Inclusion (DEI)](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md)
 
