@@ -49,4 +49,4 @@ We are currently developing experiences internally and are conducting outreach t
 Those who lead the experiences and engage members. Our Go-to-Market Strategy is to target influencers who want a fun way to engage and monetize their fanbase. We’ve learned the following from our work with influencers over the past few years:
 
 - Ethical Monetization: Influencers are motivated to monetize their fanbase BUT it needs to be fun and engaging - not a money grab. 
-- Easy of Use: They are looking for fan experiences that are easy to do. With our shows they simply select an experience to play with their fans and set a date. There is no prepwork involved.
+- Easy of Use: They are looking for fan experiences that are easy to do. With our shows they simply select an experience to play with their fans and set a date. There is no prepwork involved. They just show up and have fun with their fans. 
