@@ -11,3 +11,4 @@ Rogue Women is an early seed-stage fund investing in the best women-led tech sta
 ### [Underdog Labs](https://www.underdoglabs.io/)
 Underdog Labs is a venture fund focused on very early-stage opportunities. They are dedicated to helping mission-driven founders navigate the early startup waters to build and launch truly transformational companies. Underdog Labs invested in us because they see the big problem we're solving in the digital entertainment industry and believe in our strong vision for applying emerging technology, including generative AI, to solve this problem. They recognize the potential of our platform to disrupt the status quo in digital entertainment.
 
+[Previous: Our Team](https://github.com/rushtix/reelmagic/blob/main/docs/team.md) | [Next: FAQs](https://github.com/rushtix/reelmagic/blob/main/docs/faq.md)
