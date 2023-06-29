@@ -27,3 +27,6 @@ The next wave of entertainment will undeniably be interactive, whether it's virt
 
 At ReelMagic, we're excited to explore the potential of IGE and to push the boundaries of interactive entertainment. We believe that IGE represents the future of entertainment.
 
+[Previous: Interactive Generative Experience (IGE)](https://github.com/rushtix/reelmagic/blob/main/docs/ige.md) | [Next: Our Team](https://github.com/rushtix/reelmagic/blob/main/docs/team.md)
+
+
