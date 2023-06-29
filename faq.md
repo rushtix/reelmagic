@@ -1,4 +1,4 @@
-# FAQs :question:
+# FAQs 📋
 
 **Q1: What is ReelMagic?**
 A1: ReelMagic is a ground-breaking entertainment platform that utilizes advanced generative AI to transform group chats into immersive, interactive fiction experiences. These experiences are brought to life through captivating video content.
