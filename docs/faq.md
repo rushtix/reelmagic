@@ -116,7 +116,7 @@ Our company's unfair advantages include:
 
 - **Proprietary Tech Stack**: We have built a completely proprietary tech stack, which means we're not dependent on any "off-the-shelf" solutions. This gives us full control over our technology and allows us to innovate and adapt quickly.
 
-- **Extensive Industry Relationships**: We have built extensive relationships with all the major agents and managers (CAA, UTA, WME, APA, and Gersh). These relationships give us access to a wide range of talent and resources.
+- **Extensive Industry Relationships**: We have built extensive relationships with all the major agents and managers (CAA, UTA, WME, APA, and Gersh). These relationships give us access to a wide range of talent and resources when we integrate them into the IGE titles. 
 
 - **Theater Background**: Our extensive background in creating theater helps us train AI models to tell great stories. This unique blend of technology and storytelling expertise sets us apart.
 
