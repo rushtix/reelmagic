@@ -1,3 +1,6 @@
+<img src="https://cdn.rushtix.com/wp-content/uploads/2023/06/2909_ReelMagic_AV-03.png" alt="ReelMagic Image">
+
+
 # ReelMagic Knowledge Base 🌟
 
 Welcome to the heart of ReelMagic! This repository is a comprehensive guide to understanding, using, and contributing to ReelMagic, a platform transforming the landscape of interactive storytelling. 🚀
