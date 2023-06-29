@@ -4,7 +4,7 @@ Welcome to the Usage Guide page of the ReelMagic Knowledge Base. Here, you'll le
 
 ## Getting Started 🚀
 
-1. **Sign Up**: To begin your ReelMagic journey, sign up and create a user profile.
+1. **Sign Up**: To begin your ReelMagic journey, [join our Discord channel](https://discord.com/invite/8cSdJM9SKa).
 2. **Choose a Story**: Browse our library of interactive narratives and choose a story that interests you.
 3. **Join the Conversation**: Engage with the group chat, contribute to the story, and watch as your choices shape the narrative.
 4. **Watch the Story Unfold**: See the story come to life in real-time video content, adapting to the choices made by you and other users.
