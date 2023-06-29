@@ -1,4 +1,4 @@
-## Interactive Generative Entertainment: The Next Wave 🌊 
+## Interactive Generative Experience: The Next Wave 🌊 
 
 Interactive Generative Experience, or IGE (pronounced "Iggy"), is a new category of entertainment that we at ReelMagic have pioneered. It represents a unique blend of interactive storytelling and advanced generative AI technologies.
 
