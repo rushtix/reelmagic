@@ -14,8 +14,7 @@ Join us as we embark on this exciting journey to redefine storytelling and creat
 ## Why I Believe The Future of Entertainment is Interactive ## 
 Jill Bourque, CEO of RushTix
 
-**Early Career and the Power of "Yes, And"**
-<hr>Early in my career, I took an improv class to level up my communication skills for my job in finance. I immediately clicked with the underlying concept of “Yes, and” which means that you take what’s presented to you in a scene and say “yes” and build upon the idea. This simple idea changed the trajectory of my life in the best possible ways.
+**Early Career and the Power of "Yes, And"**<hr>Early in my career, I took an improv class to level up my communication skills for my job in finance. I immediately clicked with the underlying concept of “Yes, and” which means that you take what’s presented to you in a scene and say “yes” and build upon the idea. This simple idea changed the trajectory of my life in the best possible ways.
 
 ## Creation of "How We First Met"
 I started performing in shows and then creating my own. One of them, "How We First Met", became extremely successful. The concept was that a host interviews a couple on stage and then at strategic points in the story segues to a team of improvisers and musicians to theatrically re-create their love story in real-time, complete with sketches, songs, dancing, and multimedia. You can see some of the press clippings about the show [here](https://www.dropbox.com/s/cgdxqelieymjiss/combinepdf.pdf?dl=0).
