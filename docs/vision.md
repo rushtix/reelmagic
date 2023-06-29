@@ -10,8 +10,7 @@ Looking forward, we're exploring the potential for monetization and growth throu
 
 Join us as we embark on this exciting journey to redefine storytelling and create a whole new world of interactive entertainment! 
 
-# Founders Statement 🎥
-## Why I Believe The Future of Entertainment is Interactive ## 
+# Founders Statement:  Why I Believe The Future of Entertainment is Interactive 
 Jill Bourque, CEO of RushTix
 
 **Early Career and the Power of "Yes, And"**<hr>Early in my career, I took an improv class to level up my communication skills for my job in finance. I immediately clicked with the underlying concept of “Yes, and” which means that you take what’s presented to you in a scene and say “yes” and build upon the idea. This simple idea changed the trajectory of my life in the best possible ways.
