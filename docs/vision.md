@@ -9,3 +9,6 @@ By harnessing the power of Discord, we aim to morph ordinary chats into extraord
 Looking forward, we're exploring the potential for monetization and growth through Non-Fungible Tokens (NFTs). We envision empowering the community to own pieces of the content they help create, adding an exciting layer of value to the user experience. 
 
 Join us as we embark on this exciting journey to redefine storytelling and create a whole new world of interactive entertainment! 
+
+[Previous: About Us](https://github.com/rushtix/reelmagic/blob/main/docs/about.md) | [Next: Our Product](https://github.com/rushtix/reelmagic/blob/main/docs/product.md)
+
