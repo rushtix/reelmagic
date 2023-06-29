@@ -13,3 +13,6 @@ Welcome to the Tech Stack page of the ReelMagic Knowledge Base. Here you will le
 ReelMagic leverages state-of-the-art AI models to generate immersive, dynamic narratives. Our proprietary AI model is fine-tuned using a vast corpus of text data from the public domain, which allows us to create engaging, responsive storylines.
 
 This section will be updated as our tech stack evolves, ensuring it remains a comprehensive resource for understanding the technological foundation of ReelMagic.
+
+[Previous: Ethics and Diversity, Equity, and Inclusion (DEI)](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md) | [Next: Usage Guide](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md)
+
