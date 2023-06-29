@@ -2,9 +2,9 @@
 
 RushTix is an experience company that believes in the power of shared experiences. We started as a subscription experience platform where users could discover and attend amazing experiences for a low monthly fee. 
 
-In 2016, we created a bot named Roscoe bot which won the 2016 IBM Watson Conversation Bot Competition in two categories: Most Useful and Best Natural Language Processing. 
+In 2016, we created a bot named Roscoe which encourage people to get out more and discover new events around them. The bot was humorous and users often spent hours interacting with just chatting for fun. The bot won the 2016 IBM Watson Conversation Bot Competition in two categories: Most Useful and Best Natural Language Processing. 
 
-During the pandemic in 2020, we pivoted to paid livestreaming, becoming the largest stand-up comedy livestreamer. We had the privilege of working with top comedians like Sarah Silverman, Patton Oswalt, Jeff Dunham, Maria Bamford, and many more. 
+During the pandemic to help performers earn income we pivoted to paid livestreaming becoming the largest stand-up comedy livestreamer. We had the privilege of working with top comedians like Sarah Silverman, Patton Oswalt, Jeff Dunham, Maria Bamford, and many more. 
 
 Now, we have used our background in bots and livestreaming to build ReelMagic. ReelMagic is a ground-breaking entertainment platform where advanced generative AI and the dynamic energy of group chats converge to form compelling, interactive fiction experiences brought to life through immersive video content. 
 
