@@ -16,3 +16,6 @@ Welcome to the Usage Guide page of the ReelMagic Knowledge Base. Here, you'll le
 - **Community**: Engage with a community of adventurers, sharing your thoughts and experiences as the narrative progresses.
 
 This guide will be updated as we add new features to the platform, keeping you up-to-date on how to make the most of your ReelMagic experience.
+
+[Previous: Our Tech Stack](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md) | [Next: Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/docs/contribution-guidelines.md)
+
