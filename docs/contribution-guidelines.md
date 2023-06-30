@@ -6,7 +6,7 @@ First off, thank you for considering contributing to ReelMagic. It's people like
 
 Follow these steps to report a bug, propose a new feature, or ask a question:
 
-1. Go to the [Issues](https://github.com/username/reelmagic/issues) page of the ReelMagic repository.
+1. Go to the [Issues](https://github.com/rushtix/reelmagic/issues) page of the ReelMagic repository.
 2. Click the green 'New Issue' button on the right. 
 3. Fill out the template provided or create a custom one.
 4. If reporting a bug, try to include as much detail as you can, including steps to reproduce the issue, the expected behavior, and the actual behavior.
