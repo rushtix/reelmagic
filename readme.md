@@ -37,7 +37,6 @@ This knowledge base provides information on various aspects of ReelMagic, includ
 10. [Our Tech Stack](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md)
 11. [Usage Guide](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md)
 12. [Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/docs/contribution-guidelines.md)
-13. [Briefing Document](https://github.com/rushtix/reelmagic/blob/main/docs/briefing-document.md)
 
 ## Contributing Feedback 📝
 
