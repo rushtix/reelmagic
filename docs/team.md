@@ -8,13 +8,13 @@ We are an award-winning team of six with a motto of "never give up". Our accolad
 
 Our team has worked together for nine years on various projects, with Jill and Johnny having a working relationship that spans 15 years. Here are some of our key team members:
 
-## Jill Bourque, CEO of RushTix
+## Jill Bourque, CEO
 Jill is an expert in Improv Theater Creating and an award-winning AI conversational bot creator. She is an award-winning founder who has successfully raised funding from top VCs. Jill's LinkedIn profile can be found [here](https://www.linkedin.com/in/jillbourque/).
 
-## Johnny Hayes, COO of RushTix
+## Johnny Hayes, COO
 Johnny runs the Bay Area's biggest event site, Funcheap.com, and is a top live comedy producer. His experience and expertise have been instrumental in the success of RushTix. Johnny's LinkedIn profile can be found [here](https://www.linkedin.com/in/hayesjohnny/).
 
-## Haris Amjed, Senior Developer at RushTix
+## Haris Amjed, Senior Developer
 Haris is skilled in all AI technologies, React, Node.js, and all cloud platforms including GCP, AWS, and Azure. His technical expertise has been crucial in developing the advanced technologies that power RushTix. Haris's LinkedIn profile can be found [here](https://www.linkedin.com/in/harisamjed/).
 
 [Previous: Our Ecosystem](https://github.com/rushtix/reelmagic/blob/main/docs/ecosystem.md) | [Next: Investors](https://github.com/rushtix/reelmagic/blob/main/docs/investors.md)
