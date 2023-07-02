@@ -3,11 +3,11 @@
 
 # ReelMagic Knowledge Base 🌟
 
-Welcome to the heart of ReelMagic! This repository is a comprehensive guide to understanding, using, and contributing to ReelMagic, a platform transforming the landscape of interactive storytelling. 🚀
+Welcome to the heart of ReelMagic! This repository is a comprehensive guide to understanding, using, and contributing to ReelMagic, a platform transforming the landscape of entertainment through generative AI.
 
 ## About ReelMagic 
 
-ReelMagic is an innovative platform utilizing generative AI to transform group chats into immersive, interactive fiction experiences brought to life in captivating video content. It's where books, movies, and video games meet - creating an entirely new form of interactive entertainment.
+ReelMagic is an innovative platform utilizing generative AI to transform conversations into immersive, interactive experiences. It's where movies and video games meet - creating an entirely new form of immersive entertainment.
 
 ### Key Features ✨
 
