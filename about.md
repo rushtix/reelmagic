@@ -1,4 +1,4 @@
-# About Us
+# 1. About Us
 
 RushTix is an experience company that believes in the power of shared experiences. 
 
@@ -13,5 +13,3 @@ ReelMagic is a ground-breaking entertainment platform where advanced generative 
 In the world of ReelMagic, you aren't just a spectator; you're a participant. Your chats with characters shape the narrative, creating a personalized storyline that responds and evolves in real time based on your interactions. The result is a rich and engaging experience where every conversation adds depth to your adventure.
 
 Founded by Jill Bourque and her dedicated team of innovators, ReelMagic is built on the belief that AI has the potential to transform storytelling. We stand at the crossroads of technology and creativity, exploring uncharted territory in the realm of interactive, AI-generated narratives. Every conversation you have on ReelMagic deepens your connection to the story, leading to a wholly unique and exciting journey every time.
-
-[Next: Our Vision](https://github.com/rushtix/reelmagic/blob/main/docs/vision.md)
