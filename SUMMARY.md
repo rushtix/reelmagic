@@ -2,7 +2,7 @@
 
 * [readme](README.md)
 * [docs](docs/README.md)
-  * [About Us](docs/about.md)
+  * [About Us](docs/about-us.md)
   * [Contribution Guidelines 📝](docs/contribution-guidelines.md)
   * [Ecosystem: Interactive Generative Experience 🌐](docs/ecosystem.md)
   * [Ethics & DEI ⚖️](docs/ethics-dei.md)
