@@ -1,4 +1,4 @@
-# Team 🚀
+# 6. Team 🚀
 
 We are an award-winning team of six with a motto of "never give up". Our accolades include:
 
