@@ -19,30 +19,27 @@ ReelMagic is an innovative platform utilizing generative AI to transform convers
 
 This knowledge base provides information on various aspects of ReelMagic, including:
 
-- [**Tech Stack**](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md): Learn about the technologies and AI models powering ReelMagic. 
-- [**Usage Guide**](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md): Understand how to engage and navigate the platform. 
-- [**Ethics & DEI**](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
+- [**Tech Stack**]([https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md](https://github.com/rushtix/reelmagic/wiki/10.-Tech-Stack)): Learn about the technologies and AI models powering ReelMagic. 
+- [**Usage Guide**](https://github.com/rushtix/reelmagic/wiki/Usage-Guide): Understand how to engage and navigate the platform. 
+- [**Ethics & DEI**](https://github.com/rushtix/reelmagic/wiki/9.-Ethics-&-DEI): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
 
 # Table of Contents 💡
 
-1. [About Us](https://github.com/rushtix/reelmagic/blob/main/docs/about.md)
-2. [Our Vision](https://github.com/rushtix/reelmagic/blob/main/docs/vision.md)
-3. [Our Product](https://github.com/rushtix/reelmagic/blob/main/docs/product.md)
-4. [Interactive Generative Experience (IGE)](https://github.com/rushtix/reelmagic/blob/main/docs/ige.md)
-5. [Our Ecosystem](https://github.com/rushtix/reelmagic/blob/main/docs/ecosystem.md)
-6. [Our Team](https://github.com/rushtix/reelmagic/blob/main/docs/team.md)
-7. [Investors](https://github.com/rushtix/reelmagic/blob/main/docs/investors.md)
-8. [FAQs](https://github.com/rushtix/reelmagic/blob/main/docs/faq.md)
-9. [Ethics and Diversity, Equity, and Inclusion (DEI)](https://github.com/rushtix/reelmagic/blob/main/docs/ethics-dei.md)
-10. [Our Tech Stack](https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md)
-11. [Usage Guide](https://github.com/rushtix/reelmagic/blob/main/docs/usage-guide.md)
-12. [Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/docs/contribution-guidelines.md)
+1. [ReelMagic Revolution](https://github.com/rushtix/reelmagic/wiki/ReelMagic-Revolution)
+2. [Two‐Way Entertainment](https://github.com/rushtix/reelmagic/wiki/Two%E2%80%90Way-Entertainment)
+3. [Let's Get Iggy](https://github.com/rushtix/reelmagic/wiki/3.-Let's-Get-Iggy)
+4. [About RushTix](https://github.com/rushtix/reelmagic/wiki/4.-About-RushTix)
+5. [Ecosystem](https://github.com/rushtix/reelmagic/wiki/5.-Ecosystem)
+6. [Team](https://github.com/rushtix/reelmagic/wiki/6.-Team)
+7. [Investors](https://github.com/rushtix/reelmagic/wiki/7.-Investors)
+8. [Frequently Asked Questions](https://github.com/rushtix/reelmagic/wiki/8.-Frequently-Asked-Questions)
+9. [Ethics and Diversity, Equity, and Inclusion (DEI)](https://github.com/rushtix/reelmagic/wiki/9.-Ethics-&-DEI)
+10. [Tech Stack](https://github.com/rushtix/reelmagic/wiki/10.-Tech-Stack)
+11. [Usage Guide](https://github.com/rushtix/reelmagic/wiki/Usage-Guide)
+12. [Contribution Guidelines](https://github.com/rushtix/reelmagic/wiki/Contribution-Guidelines)
 
 ## Contributing Feedback 📝
 
 We welcome ideas, feedback, and contributions that help to enhance ReelMagic's interactive narrative experiences. Find out how to contribute in our [Contribution Guidelines](https://github.com/rushtix/reelmagic/blob/main/docs/contribution-guidelines.md) section.
 
 Welcome to the ReelMagic community! Enjoy exploring the magic of interactive storytelling. 
-
-
-
