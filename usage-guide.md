@@ -1,4 +1,4 @@
-# Usage Guide 🎯
+# 1. Usage Guide 🎯
 
 Welcome to the Usage Guide page of the ReelMagic Knowledge Base. Here, you'll learn how to engage and navigate the ReelMagic platform.
 
