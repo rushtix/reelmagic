@@ -1,4 +1,4 @@
-# Tech Stack 🔧
+# 10. Tech Stack 🔧
 
 Welcome to the Tech Stack page of the ReelMagic Knowledge Base. Here you will learn about the technologies and AI models that power ReelMagic.
 
