@@ -1,4 +1,4 @@
-## Interactive Generative Experience: The Next Wave 🌊 
+## 4. Interactive Generative Experience
 
 Interactive Generative Experience, or IGE (pronounced "Iggy"), is a new category of entertainment that we have pioneered. It represents a unique blend of interactive storytelling and advanced generative AI technologies.
 
