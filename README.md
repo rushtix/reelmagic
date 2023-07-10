@@ -14,7 +14,7 @@ ReelMagic is an innovative platform utilizing generative AI to transform convers
 
 This knowledge base provides information on various aspects of ReelMagic, including:
 
-- [**Tech Stack**]([https://github.com/rushtix/reelmagic/blob/main/docs/tech-stack.md](https://github.com/rushtix/reelmagic/wiki/10.-Tech-Stack)): Learn about the technologies and AI models powering ReelMagic. 
+- [**Tech Stack**](https://github.com/rushtix/reelmagic/wiki/Tech-Stack): Learn about the technologies and AI models powering ReelMagic. 
 - [**Usage Guide**](https://github.com/rushtix/reelmagic/wiki/Usage-Guide): Understand how to engage and navigate the platform. 
 - [**Ethics & DEI**](https://github.com/rushtix/reelmagic/wiki/9.-Ethics-&-DEI): Read about our approach to ethical AI usage and diversity, equity, and inclusion. 
 
