@@ -1,4 +1,4 @@
-# Our Vision :crystal_ball:
+# 2. Our Vision :crystal_ball:
 
 ReelMagic is more than just a product. It's a community, a new form of entertainment, and an opportunity to shape the future of storytelling. We envision a future where massive groups of people will be able to participate in movies together. We believe this is a new category that will experience exponential growth.
 
