@@ -25,8 +25,8 @@ This knowledge base provides information on various aspects of ReelMagic, includ
 
 # Table of Contents 💡
 
-1. [ReelMagic Revolution](https://github.com/rushtix/reelmagic/wiki/ReelMagic-Revolution)
-2. [Two‐Way Entertainment](https://github.com/rushtix/reelmagic/wiki/Two%E2%80%90Way-Entertainment)
+1. [ReelMagic Revolution](https://github.com/rushtix/reelmagic/wiki/1.-ReelMagic-Revolution)
+2. [Two‐Way Entertainment](https://github.com/rushtix/reelmagic/wiki/2.-Two%E2%80%90Way-Entertainment)
 3. [Let's Get Iggy](https://github.com/rushtix/reelmagic/wiki/3.-Let's-Get-Iggy)
 4. [About RushTix](https://github.com/rushtix/reelmagic/wiki/4.-About-RushTix)
 5. [Ecosystem](https://github.com/rushtix/reelmagic/wiki/5.-Ecosystem)
