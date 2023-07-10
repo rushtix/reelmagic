@@ -1,4 +1,4 @@
-# 1. About Us
+# 11. About Us
 
 RushTix is an experience company that believes in the power of shared experiences. 
 
