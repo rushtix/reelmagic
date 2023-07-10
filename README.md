@@ -1,10 +1,5 @@
 <img src="https://cdn.rushtix.com/wp-content/uploads/2023/06/2909_ReelMagic_AV-03.png" alt="ReelMagic Image">
 
-
-# ReelMagic Knowledge Base 🌟
-
-Welcome to the heart of ReelMagic! This repository is a comprehensive guide to understanding, using, and contributing to ReelMagic, a platform transforming the landscape of entertainment through generative AI.
-
 ## About ReelMagic 
 
 ReelMagic is an innovative platform utilizing generative AI to transform conversations into immersive, interactive experiences. It's where movies and video games meet - creating an entirely new form of immersive entertainment.
