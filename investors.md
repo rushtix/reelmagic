@@ -1,4 +1,4 @@
-## Current Investors
+## 7. Current Investors
 
 Following are some of the amazing investors we've partnered with.
 
