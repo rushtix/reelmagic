@@ -1,4 +1,4 @@
-# Ecosystem: Interactive Generative Experience 🌐
+# 5. Ecosystem
 
 We are building the ultimate destination to experience interactive stories. Our vision is to have thousands of IGE titles, all of which can be played a multitude of times. Members can replay titles as no two experiences, or groups of members, are the same. We see the market in three main parts: 
 
