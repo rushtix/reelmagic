@@ -1,4 +1,4 @@
-# Ethics & DEI ⚖️
+# 9. Ethics & DEI ⚖️
 
 Welcome to the Ethics & DEI (Diversity, Equity, Inclusion) page of the ReelMagic Knowledge Base. Here, you'll learn about our approach to ethical AI usage and our commitment to fostering diversity, equity, and inclusion.
 
