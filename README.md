@@ -34,7 +34,7 @@ This knowledge base provides information on various aspects of ReelMagic, includ
 7. [Investors](https://github.com/rushtix/reelmagic/wiki/7.-Investors)
 8. [Frequently Asked Questions](https://github.com/rushtix/reelmagic/wiki/8.-Frequently-Asked-Questions)
 9. [Ethics and Diversity, Equity, and Inclusion (DEI)](https://github.com/rushtix/reelmagic/wiki/9.-Ethics-&-DEI)
-10. [Tech Stack](https://github.com/rushtix/reelmagic/wiki/10.-Tech-Stack)
+10. [Tech Stack](https://github.com/rushtix/reelmagic/wiki/Tech-Stack)
 11. [Usage Guide](https://github.com/rushtix/reelmagic/wiki/Usage-Guide)
 12. [Contribution Guidelines](https://github.com/rushtix/reelmagic/wiki/Contribution-Guidelines)
 
