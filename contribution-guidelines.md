@@ -1,4 +1,4 @@
-# Contribution Guidelines 📝
+# 12. Contribution Guidelines 📝
 
 First off, thank you for considering contributing to ReelMagic. It's people like you that make ReelMagic such a great tool.
 
