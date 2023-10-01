@@ -1,8 +1,7 @@
 <img src="https://cdn.rushtix.com/wp-content/uploads/2023/06/2909_ReelMagic_AV-03.png" alt="ReelMagic Image">
 
 ## About ReelMagic 
-
-ReelMagic is an innovative platform utilizing generative AI to transform conversations into immersive, interactive experiences. It's where movies and video games meet - creating an entirely new form of immersive entertainment.
+ReelMagic is a personalized movie platform that uses AI to blend the fun of video games with the magic of movies.
 
 ### Key Features ✨
 
