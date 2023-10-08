@@ -7,7 +7,7 @@ ReelMagic is a personalized movie platform that uses AI to blend the fun of vide
 
 - **Interactive**: Participate in live, ongoing stories, making choices that steer the narrative. 
 - **Immersive**: Dive into story worlds and communicate with characters that respond to your actions.
-- **Generative AI**: Experience dynamic storytelling powered by advanced AI, creating unique, real-time narratives. 
+- **AI-Driven**: Experience dynamic storytelling powered by advanced AI, creating unique, real-time narratives. 
 
 ## Getting Started 🏁
 
