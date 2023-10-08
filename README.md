@@ -1,5 +1,7 @@
 <img src="https://cdn.rushtix.com/wp-content/uploads/2023/06/2909_ReelMagic_AV-03.png" alt="ReelMagic Image">
 
+To get involved in our community, [join our Discord server](https://discord.gg/nGmb9zhT67).
+
 ## About ReelMagic 
 ReelMagic is a personalized movie platform that uses AI to blend the fun of video games with the magic of movies.
 
